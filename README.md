@@ -1,4 +1,4 @@
-# Timber.e("Hello World!! 👋")
+# println("Hello World!! 👋")
 
 Hello, my name is Jesús Medina @jisusmadrid22. I have been a mobile developer for a couple of years, the technologies that I use and I am passionate about are *Kotlin and Jetpack compose for android app dev*, I am a mobile developer at heart and I am always in constant evolution to always have the best version of myself when developing, I am someone who He considers himself very attached to mobile development simply because it is something incredible.
 
